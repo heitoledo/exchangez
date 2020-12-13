@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=12"
+  },
   "name": "exchangez",
   "private": true,
   "dependencies": {
